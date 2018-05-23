@@ -1,0 +1,26 @@
+Zapisanie nowego produktu:
+
+{
+	"name" : "SAMSUNG",
+	"price" : 205,
+	"category": "hardDrive"
+}
+
+{
+	"name" : "MAXTOR",
+	"price" : 180,
+	"category": "hardDrive"
+}
+
+Zaktualizowanie ceny produktu:
+{
+	"name" : "SAMSUNG",
+	"price" : 255,
+	"category": "hardDrive"
+}
+
+Zapisanie nowego komentarza do produktu:
+
+{
+	"content" : "blabla"
+}
